@@ -1,2 +1,2 @@
 # Numpy and Pandas Summary
-first repository
+Numpy and Pandaz notes and comand lines with examples

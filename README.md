@@ -1,2 +1,2 @@
 # Numpy and Pandas Summary
-Numpy and Pandaz notes and comand lines with examples
+Numpy and Pandaz notes & the command lines with examples
